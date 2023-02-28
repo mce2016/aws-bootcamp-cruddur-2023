@@ -1,1 +1,14 @@
 # Week 0 — Billing and Architecture
+I watched all of the required videos. Created a conceptual and logical diagrams in Lucid Charts
+https://lucid.app/lucidchart/invitations/accept/inv_b5efdc58-5669-4dd4-ac58-da7c7dfa7e25
+https://lucid.app/lucidchart/invitations/accept/inv_a74212a1-9ff3-4378-a72b-25da53fe0b3d
+https://lucid.app/lucidchart/invitations/accept/inv_3cf91141-7571-4d37-8af4-58e151a855ea
+- Changed the syntax to make the Momento icon black by change the fill from "currentColor" to "black." I was then able to see the icon in my library.
+Created an admin user
+
+Used Cloudshell
+Generate aws credentials, policy, and virtual MFA for IAM user
+Installed the AWS CLI
+Created a billing alarm in CloudWatch for spending over $10
+Created a budget to not exceed $25
+Created a domain in Route 53 - chichiscloud.com
