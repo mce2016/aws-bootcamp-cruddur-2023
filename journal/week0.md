@@ -7,7 +7,7 @@
 - Created a conceptual and logical diagrams in Lucid Charts. *Diagrams are below*
 - Created an admin user 
 	
-	![Admin User](assets/images....)
+	![Admin User](_docs/assets/Admin User.jpg)
 
 - Used CloudShell
 
