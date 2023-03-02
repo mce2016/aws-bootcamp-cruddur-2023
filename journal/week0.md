@@ -18,7 +18,7 @@
 
 - Installed AWS CLI
 
-	![CLI](aws-bootcamp-cruddur-2023/AWS CLI.jpg)
+	![CLI](AWS CLI.jpg)
 
 - Created a billing alarm in CloudWatch for spending over $10
 - Created a budget to not exceed $25. I forgot to turn off RDS instance. I racked up quit a bit just a 30 day period. This exercise reminded me about the importance of budget alerts and billing alarms.
