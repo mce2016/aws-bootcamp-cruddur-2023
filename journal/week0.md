@@ -1,9 +1,14 @@
+
 # Week 0 — Billing and Architecture
-I watched all of the required videos. 
-Created a conceptual and logical diagrams in Lucid Charts
-https://lucid.app/lucidchart/invitations/accept/inv_b5efdc58-5669-4dd4-ac58-da7c7dfa7e25
-https://lucid.app/lucidchart/invitations/accept/inv_a74212a1-9ff3-4378-a72b-25da53fe0b3d
-https://lucid.app/lucidchart/invitations/accept/inv_3cf91141-7571-4d37-8af4-58e151a855ea
+
+## Homework Tasks
+
+ 
+
+[Diagram 1](https://lucid.app/lucidchart/invitations/accept/inv_b5efdc58-5669-4dd4-ac58-da7c7dfa7e25); [Diagram 2](https://lucid.app/lucidchart/invitations/accept/inv_a74212a1-9ff3-4378-a72b-25da53fe0b3d/);
+[Diagram 3](https://lucid.app/lucidchart/invitations/accept/inv_3cf91141-7571-4d37-8af4-58e151a855ea)
+
+
 - Changed the syntax to make the Momento.svg black by change the fill from "currentColor" to "black." I was then able to see the icon in my Lucid library.
 Created an admin user
 - Used Cloudshell
